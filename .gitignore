@@ -3,7 +3,8 @@
 
 build/
 dist/
-
+lite_polling.egg-info/
+Manifest.txt
 
 
 *.pyc
